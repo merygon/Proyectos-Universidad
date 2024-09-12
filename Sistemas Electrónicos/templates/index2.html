@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Control de Ducha</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
+<body>
+    <h1>Control de Puerta</h1>
+    <form action="/abrir_puerta" method="post">
+        <input type="submit" value="Abrir Puerta">
+    </form>
+
+    <h1>Control de Ducha</h1>
+    <form action="/abrir_ducha" method="post">
+        <input type="submit" value="Abrir Ducha">
+    </form>
+
+    <h2>Gráfica de Temperatura</h2>
+    <canvas id="temperatura-chart"></canvas>
+
+    <h2>Gráfica de Humedad</h2>
+    <canvas id="humedad-chart"></canvas>
+
+    <script>
+        // Función para inicializar y actualizar los gráficos
+        function updateGraphs() {
+            $.get('/temperatura', function (temperaturaData) {
+                updateChart('temperatura-chart', temperaturaData, 'Temperatura');
+            });
+
+            $.get('/humedad', function (humedadData) {
+                updateChart('humedad-chart', humedadData, 'Humedad');
+            });
+        }
+
+        // Función para actualizar los gráficos
+        function updateChart(chartId, data, label) {
+            var ctx = document.getElementById(chartId).getContext('2d');
+            var chart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: data.map(function (value, index) { return index; }),
+                    datasets: [{
+                        label: label,
+                        data: data,
+                        borderColor: 'rgb(75, 192, 192)',
+                        tension: 0.1
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+
+        // Actualizamos los gráficos periódicamente
+        setInterval(updateGraphs, 1000);
+    </script>
+</body>
+
+</html>
