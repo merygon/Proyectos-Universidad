@@ -1,0 +1,21 @@
+Pos,permanentNumber,Driver,Constructor,Laps,Time/Retired,Grid,Points,driverId,stop,duration,RaceNumber,Season,GPName
+1,5.0,Sebastian Vettel,Ferrari,52.0,1:27:29.784,2,25.0,vettel,1.0,23.912,9,2018,British Grand Prix
+2,44.0,Lewis Hamilton,Mercedes,52.0,+2.264,1,18.0,hamilton,2.0,21.1125,9,2018,British Grand Prix
+3,7.0,Kimi Räikkönen,Ferrari,52.0,+3.652,3,15.0,raikkonen,1.0,21.552,9,2018,British Grand Prix
+4,77.0,Valtteri Bottas,Mercedes,52.0,+8.883,4,12.0,bottas,,,9,2018,British Grand Prix
+5,3.0,Daniel Ricciardo,Red Bull Racing - TAG Heuer,52.0,+9.500,6,10.0,ricciardo,2.0,21.6045,9,2018,British Grand Prix
+6,27.0,Nico Hülkenberg,Renault,52.0,+28.220,11,8.0,hulkenberg,,,9,2018,British Grand Prix
+7,31.0,Esteban Ocon,Force India - Mercedes,52.0,+29.930,10,6.0,ocon,1.0,22.527,9,2018,British Grand Prix
+8,14.0,Fernando Alonso,McLaren - Renault,52.0,+31.115,13,4.0,alonso,1.0,21.588,9,2018,British Grand Prix
+9,20.0,Kevin Magnussen,Haas - Ferrari,52.0,+33.188,7,2.0,kevin_magnussen,1.0,22.138,9,2018,British Grand Prix
+10,11.0,Sergio Pérez,Force India - Mercedes,52.0,+34.708,12,1.0,perez,1.0,22.863,9,2018,British Grand Prix
+11,2.0,Stoffel Vandoorne,McLaren - Renault,52.0,+35.774,17,,vandoorne,2.0,34.5415,9,2018,British Grand Prix
+12,18.0,Lance Stroll,Williams - Mercedes,52.0,+38.106,PL,,stroll,2.0,22.24,9,2018,British Grand Prix
+13,10.0,Pierre Gasly,Scuderia Toro Rosso - Honda,52.0,+39.129 1,14,,gasly,1.0,22.011,9,2018,British Grand Prix
+14,35.0,Sergey Sirotkin,Williams - Mercedes,52.0,+48.113,PL,,sirotkin,2.0,23.966,9,2018,British Grand Prix
+15 2,33.0,Max Verstappen,Red Bull Racing - TAG Heuer,46.0,Brakes,5,,max_verstappen,1.0,21.214,9,2018,British Grand Prix
+Ret,8.0,Romain Grosjean,Haas - Ferrari,37.0,Collision,8,,grosjean,1.0,22.121,9,2018,British Grand Prix
+Ret,55.0,Carlos Sainz Jr.,Renault,37.0,Collision,16,,sainz,2.0,24.796,9,2018,British Grand Prix
+Ret,9.0,Marcus Ericsson,Sauber - Ferrari,31.0,Accident,15,,ericsson,1.0,21.519,9,2018,British Grand Prix
+Ret,16.0,Charles Leclerc,Sauber - Ferrari,18.0,Wheel,9,,leclerc,1.0,21.364,9,2018,British Grand Prix
+Ret,28.0,Brendon Hartley,Scuderia Toro Rosso - Honda,1.0,PU connector,PL,,brendon_hartley,,,9,2018,British Grand Prix

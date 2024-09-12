@@ -1,0 +1,21 @@
+Pos,permanentNumber,Driver,Constructor,Laps,Time/Retired,Grid,Points,driverId,stop,duration,RaceNumber,Season,GPName
+1,33.0,Max Verstappen,Red Bull Racing - TAG Heuer,71.0,1:21:56.024,4,25.0,max_verstappen,1.0,24.395,8,2018,Austrian Grand Prix
+2,7.0,Kimi Räikkönen,Ferrari,71.0,+1.504,3,18.0,raikkonen,1.0,24.289,8,2018,Austrian Grand Prix
+3,5.0,Sebastian Vettel,Ferrari,71.0,+3.181,6,15.0,vettel,2.0,31.820500000000003,8,2018,Austrian Grand Prix
+4,8.0,Romain Grosjean,Haas - Ferrari,70.0,+1 lap,5,12.0,grosjean,1.0,29.996,8,2018,Austrian Grand Prix
+5,20.0,Kevin Magnussen,Haas - Ferrari,70.0,+1 lap,8,10.0,kevin_magnussen,1.0,25.419,8,2018,Austrian Grand Prix
+6,31.0,Esteban Ocon,Force India - Mercedes,70.0,+1 lap,11,8.0,ocon,,,8,2018,Austrian Grand Prix
+7,11.0,Sergio Pérez,Force India - Mercedes,70.0,+1 lap,15,6.0,perez,,,8,2018,Austrian Grand Prix
+8,14.0,Fernando Alonso,McLaren - Renault,70.0,+1 lap,PL,4.0,alonso,2.0,25.2885,8,2018,Austrian Grand Prix
+9,16.0,Charles Leclerc,Sauber - Ferrari,70.0,+1 lap,17,2.0,leclerc,1.0,25.026,8,2018,Austrian Grand Prix
+10,9.0,Marcus Ericsson,Sauber - Ferrari,70.0,+1 lap,18,1.0,ericsson,1.0,24.295,8,2018,Austrian Grand Prix
+11,10.0,Pierre Gasly,Scuderia Toro Rosso - Honda,70.0,+1 lap,12,,gasly,,,8,2018,Austrian Grand Prix
+12,55.0,Carlos Sainz Jr.,Renault,70.0,+1 lap,9,,sainz,1.0,25.423,8,2018,Austrian Grand Prix
+13,35.0,Sergey Sirotkin,Williams - Mercedes,69.0,+2 laps,16,,sirotkin,1.0,26.273,8,2018,Austrian Grand Prix
+14,18.0,Lance Stroll,Williams - Mercedes,69.0,+2 laps 1,13,,stroll,1.0,26.576,8,2018,Austrian Grand Prix
+15 2,2.0,Stoffel Vandoorne,McLaren - Renault,65.0,Collision damage,14,,vandoorne,1.0,24.399,8,2018,Austrian Grand Prix
+Ret,44.0,Lewis Hamilton,Mercedes,62.0,Fuel pressure,2,,hamilton,1.0,24.31,8,2018,Austrian Grand Prix
+Ret,28.0,Brendon Hartley,Scuderia Toro Rosso - Honda,54.0,Hydraulics,19,,brendon_hartley,1.0,24.297,8,2018,Austrian Grand Prix
+Ret,3.0,Daniel Ricciardo,Red Bull Racing - TAG Heuer,53.0,Exhaust,7,,ricciardo,1.0,24.309,8,2018,Austrian Grand Prix
+Ret,77.0,Valtteri Bottas,Mercedes,13.0,Hydraulics,1,,bottas,2.0,29.3105,8,2018,Austrian Grand Prix
+Ret,27.0,Nico Hülkenberg,Renault,11.0,Engine,10,,hulkenberg,1.0,25.016,8,2018,Austrian Grand Prix

@@ -1,0 +1,21 @@
+Pos,permanentNumber,Driver,Constructor,Laps,Time/Retired,Grid,Points,driverId,stop,duration,RaceNumber,Season,GPName
+1,44.0,Lewis Hamilton,Mercedes,53.0,1:30:41.001,4.0,25,hamilton,1.0,25.619,14,2021,Russian Grand Prix
+2,33.0,Max Verstappen,Red Bull Racing - Honda,53.0,+53.271,20.0,18,max_verstappen,1.0,32.456,14,2021,Russian Grand Prix
+3,55.0,Carlos Sainz Jr.,Ferrari,53.0,+1:02.475,2.0,15,sainz,1.0,24.283,14,2021,Russian Grand Prix
+4,3.0,Daniel Ricciardo,McLaren - Mercedes,53.0,+1:05.607,5.0,12,ricciardo,1.0,23.812,14,2021,Russian Grand Prix
+5,77.0,Valtteri Bottas,Mercedes,53.0,+1:07.533,16.0,10,bottas,1.0,24.308,14,2021,Russian Grand Prix
+6,14.0,Fernando Alonso,Alpine - Renault,53.0,+1:21.321,6.0,8,alonso,1.0,24.797,14,2021,Russian Grand Prix
+7,4.0,Lando Norris,McLaren - Mercedes,53.0,+1:27.224,1.0,7 1,norris,1.0,24.168,14,2021,Russian Grand Prix
+8,7.0,Kimi Räikkönen,Alfa Romeo Racing - Ferrari,53.0,+1:28.955,13.0,4,raikkonen,,,14,2021,Russian Grand Prix
+9,11.0,Sergio Pérez,Red Bull Racing - Honda,53.0,+1:30.076,8.0,2,perez,1.0,23.906,14,2021,Russian Grand Prix
+10,63.0,George Russell,Williams - Mercedes,53.0,+1:40.551,3.0,1,russell,1.0,24.156,14,2021,Russian Grand Prix
+11,18.0,Lance Stroll,Aston Martin - Mercedes,53.0,+1:56.198 2,7.0,,stroll,1.0,24.846,14,2021,Russian Grand Prix
+12,5.0,Sebastian Vettel,Aston Martin - Mercedes,52.0,+1 lap,10.0,,vettel,2.0,25.542,14,2021,Russian Grand Prix
+13,10.0,Pierre Gasly,AlphaTauri - Honda,52.0,+1 lap,11.0,,gasly,,,14,2021,Russian Grand Prix
+14,31.0,Esteban Ocon,Alpine - Renault,52.0,+1 lap,9.0,,ocon,1.0,30.333,14,2021,Russian Grand Prix
+15,16.0,Charles Leclerc,Ferrari,52.0,+1 lap,19.0,,leclerc,1.0,24.557,14,2021,Russian Grand Prix
+16,99.0,Antonio Giovinazzi,Alfa Romeo Racing - Ferrari,52.0,+1 lap,17.0,,giovinazzi,2.0,33.8705,14,2021,Russian Grand Prix
+17,22.0,Yuki Tsunoda,AlphaTauri - Honda,52.0,+1 lap,12.0,,tsunoda,,,14,2021,Russian Grand Prix
+18,9.0,Nikita Mazepin [a],Haas - Ferrari,51.0,+2 laps,15.0,,mazepin,3.0,24.928,14,2021,Russian Grand Prix
+19 3,6.0,Nicholas Latifi,Williams - Mercedes,47.0,Accident damage,18.0,,latifi,1.0,24.168,14,2021,Russian Grand Prix
+Ret,47.0,Mick Schumacher,Haas - Ferrari,32.0,Oil leak,14.0,,mick_schumacher,1.0,24.714,14,2021,Russian Grand Prix
