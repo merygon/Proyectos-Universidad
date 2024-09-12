@@ -1,0 +1,28 @@
+{
+  "chain": [
+    {
+      "hash": "81f963ed6199890d697d892eedd266bdc20f03307b01c9426c5c6412f488df38",
+      "hash_previo": "1",
+      "indice": 1,
+      "prueba": 0,
+      "timestamp": 1701627916.398895,
+      "transacciones": []
+    }
+  ],
+  "longitud": 1,
+  "date": "03/12/2023 19:25:16"
+}
+{
+  "chain": [
+    {
+      "hash": "e6b1913f226655e669f9299384beef43fd8a25fd3dfa60d45dc305027b9b511f",
+      "hash_previo": "1",
+      "indice": 1,
+      "prueba": 0,
+      "timestamp": 1701627944.0684693,
+      "transacciones": []
+    }
+  ],
+  "longitud": 1,
+  "date": "03/12/2023 19:25:44"
+}
