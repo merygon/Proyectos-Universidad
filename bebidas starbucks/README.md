@@ -1,0 +1,1 @@
+En este proyecto el usuario es preguntado por la bebida que desea, el formato y si la quiere para llevar o tomar en local. Una vez los datos son registrados se imprime el ticket con los datos del usuario y su bebida.
